@@ -1,0 +1,25 @@
+li>a {
+
+	color: white !important;
+}
+
+
+ul>li>a:hover {
+
+	color: black !important;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+}
+
+ul>li>a:active {
+
+	color: white !important;
+	background-color: black !important;
+}
+
+footer {
+
+	color: white;
+}
