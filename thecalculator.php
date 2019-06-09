@@ -1,7 +1,3 @@
-<?php
-
-$title = "The Calculator";
-?>
 
 <!DOCTYPE html>
 <html>
@@ -10,7 +6,7 @@ $title = "The Calculator";
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" type="text/css" href="css/maincss.css">
-	<title> <?php echo $title ?> </title>
+	<title> Investment calculator </title>
 </head>
 <body>
 
